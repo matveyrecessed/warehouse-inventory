@@ -3,3 +3,4 @@
 ## Эндпоинты
 - GET /items
 - POST /items
+- DELETE /items/{id}
