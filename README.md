@@ -1,0 +1,2 @@
+# warehouse-inventory
+Кт1
